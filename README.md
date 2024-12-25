@@ -3,4 +3,12 @@
 - 🌱 I’m currently learning C++/JavaScript
 - 📫 Reach me via my email - devkinariwala.r@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a working knowledge of HTML,CSS,Python,C languages.
+- ⚡ Fun fact: I have a working knowledge of
+  1. HTML
+  2. CSS
+  3. JavaScript
+  4. PHP
+  5. Java
+  6. Python
+  7. C
+  8. C++
