@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devkinariwala
 - 👀 I’m interested in computer science and coding
-- 🌱 I’m currently learning C++/JavaScript
+- 🌱 I’m currently learning NodeJS/ReactJS
 - 📫 Reach me via my email - devkinariwala.r@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a working knowledge of
